@@ -1,0 +1,11 @@
+CPAN_AUTHOR=miyagawa
+inherit perl
+
+NAME="perl-App-cpanminus"
+VERSION=1.5018
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Simple CPAN module installer"
+DESCRIPTION="cpanminus is a script to get, unpack, build and install modules
+from CPAN.  Why not just use cpan itself? It's dependency free, requires zero
+configuration, and stands alone. When running, it requires only 10MB of RAM."
